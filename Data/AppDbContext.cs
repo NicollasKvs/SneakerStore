@@ -14,6 +14,7 @@ namespace SneakerStore.Data
         public DbSet<Produto> Produtos {get; set;}
         public DbSet<Fornecedor> Fornecedores {get; set;}
         public DbSet<Insumo> Insumos {get; set;}
+        public DbSet<Venda> Vendas {get; set;}
         
     }
 }

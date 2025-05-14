@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NICOLLASKVASNEIOLIVE\\Documents\\SneakerStore\\SneakerStore.csproj": {}
+    "C:\\Users\\NICOLLASKVASNEIOLIVE\\SneakerStore\\SneakerStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NICOLLASKVASNEIOLIVE\\Documents\\SneakerStore\\SneakerStore.csproj": {
+    "C:\\Users\\NICOLLASKVASNEIOLIVE\\SneakerStore\\SneakerStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NICOLLASKVASNEIOLIVE\\Documents\\SneakerStore\\SneakerStore.csproj",
+        "projectUniqueName": "C:\\Users\\NICOLLASKVASNEIOLIVE\\SneakerStore\\SneakerStore.csproj",
         "projectName": "SneakerStore",
-        "projectPath": "C:\\Users\\NICOLLASKVASNEIOLIVE\\Documents\\SneakerStore\\SneakerStore.csproj",
+        "projectPath": "C:\\Users\\NICOLLASKVASNEIOLIVE\\SneakerStore\\SneakerStore.csproj",
         "packagesPath": "C:\\Users\\NICOLLASKVASNEIOLIVE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NICOLLASKVASNEIOLIVE\\Documents\\SneakerStore\\obj\\",
+        "outputPath": "C:\\Users\\NICOLLASKVASNEIOLIVE\\SneakerStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NICOLLASKVASNEIOLIVE\\AppData\\Roaming\\NuGet\\NuGet.Config"
