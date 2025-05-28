@@ -4076,19 +4076,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\NICOLLASKVASNEIOLIVE\\.nuget\\packages\\": {}
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NICOLLASKVASNEIOLIVE\\SneakerStore\\SneakerStore.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Downloads\\SneakerStore\\SneakerStore.csproj",
       "projectName": "SneakerStore",
-      "projectPath": "C:\\Users\\NICOLLASKVASNEIOLIVE\\SneakerStore\\SneakerStore.csproj",
-      "packagesPath": "C:\\Users\\NICOLLASKVASNEIOLIVE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NICOLLASKVASNEIOLIVE\\SneakerStore\\obj\\",
+      "projectPath": "C:\\Users\\Usuario\\Downloads\\SneakerStore\\SneakerStore.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\Downloads\\SneakerStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\NICOLLASKVASNEIOLIVE\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -4111,7 +4111,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -4165,7 +4166,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
