@@ -11,7 +11,7 @@ namespace SneakerStore.Models
         public int Id { get; set; }
 
         [Required]
-        public string Descricao { get; set; } 
+        public string? Descricao { get; set; } 
 
         [Required]
         [Column(TypeName = "decimal(10,2)")]
@@ -23,7 +23,7 @@ namespace SneakerStore.Models
         public DateTime? DataPagamento { get; set; }
 
         [Required]
-        public string Categoria { get; set; } 
+        public string? Categoria { get; set; } 
         [NotMapped]
         [JsonPropertyName("pago")] 
         public bool Pago { get; set; }
