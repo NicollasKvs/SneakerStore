@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "nl+PPTPH6iBQhJEwSLAYtAVB7ueWfpMscGA8C7suNb4=",
+  "Hash": "OVn8P9VyQKRg14rUB8GzPyeEaMaX2KsQqp+HMoHZpmE=",
   "Source": "SneakerStore",
   "BasePath": "_content/SneakerStore",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
